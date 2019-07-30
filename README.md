@@ -1,6 +1,7 @@
 # farsava-js-client
 
 [![Documentation](https://img.shields.io/badge/api-reference-blue.svg)](https://bump.sh/doc/farsava)
+[![Build Status](https://travis-ci.com/amerandish/farsava-javascript-client.svg?branch=master)](https://travis-ci.com/amerandish/farsava-javascript-client)
 
 A repository for JavaScript software development kit (SDK) of Farsava API.
 
